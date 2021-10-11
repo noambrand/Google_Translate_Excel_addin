@@ -1,0 +1,5 @@
+Google Translate Excel addin is a function powered by Google Translate for any Excel workbook (58 languages).
+Contains:
+1) XLSM examples and XLAM addin. 
+2) A button to open excel add-ins path (move the XLAM and DLL to this pass so it is available from any workbook).
+Function syntax: =GoogleTranslate(stringInput, SourceLanguage, TargetLanguage)
